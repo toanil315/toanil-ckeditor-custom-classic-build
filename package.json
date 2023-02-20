@@ -1,6 +1,6 @@
 {
   "name": "toanil315-ckeditor5-build-custom",
-  "version": "19.0.5",
+  "version": "19.0.6",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -43,6 +43,7 @@
     "@ckeditor/ckeditor5-link": "^36.0.1",
     "@ckeditor/ckeditor5-list": "^36.0.1",
     "@ckeditor/ckeditor5-media-embed": "^36.0.1",
+    "@ckeditor/ckeditor5-mention": "^36.0.1",
     "@ckeditor/ckeditor5-paragraph": "^36.0.1",
     "@ckeditor/ckeditor5-paste-from-office": "^36.0.1",
     "@ckeditor/ckeditor5-table": "^36.0.1",

@@ -33,6 +33,7 @@ import TableToolbar from "@ckeditor/ckeditor5-table/src/tabletoolbar";
 import TextTransformation from "@ckeditor/ckeditor5-typing/src/texttransformation";
 import CloudServices from "@ckeditor/ckeditor5-cloud-services/src/cloudservices";
 import TemplateViewEditing from "./widget/TemplateVariable/TemplateVariableEditing";
+import Mention from "@ckeditor/ckeditor5-mention/src/mention";
 
 export default class ClassicEditor extends ClassicEditorBase {}
 
@@ -64,6 +65,7 @@ ClassicEditor.builtinPlugins = [
   Table,
   TableToolbar,
   TextTransformation,
+  Mention,
 
   // Custom plugin
   TemplateViewEditing,
